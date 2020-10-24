@@ -4,5 +4,6 @@ using namespace std;
 int main(){
     cout<<"First commit."<<endl;
     cout<<"New file."<<endl;
+    cout<<"second commit"<<endl
     return 0;
 }
